@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(29, 28, 28);
+}
+
+header {
+    height: 100px;
+    background-color: rgb(47, 47, 44);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    background-color: rgb(53, 51, 51);
+    color: white;
+}
